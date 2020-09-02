@@ -5,7 +5,7 @@
   "main": "index.js",
   "private": true,
   "scripts": {
-    "start": "webpack-dev-server --config webpack.dev.js --mode development",
+    "start": "webpack-dev-server --config webpack.dev.js --mode development --watch",
     "build": "webpack --config webpack.prod.js --mode production",
     "publish": "npm run build && gh-pages -d dist",
     "generate-icons": "npx pwa-asset-generator ./src/assets/img/logo.svg public/pwa -i ./src/pages/index.html -m ./public/manifest.json  --path-override pwa --type png -b \"#2D2241\""
@@ -44,6 +44,7 @@
     "websocket-extensions": "^0.1.4"
   },
   "dependencies": {
+    "moment": "^2.27.0",
     "normalize.css": "^8.0.1"
   }
 }
