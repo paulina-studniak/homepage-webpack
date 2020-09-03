@@ -1,4 +1,4 @@
-![cover](./gh/homepage.png)
+![cover](./gh/homepage.jpg)
 
 # Paulina Studniak's homepage 
 
