@@ -1,12 +1,12 @@
 ![cover](https://cotenfrontend.pl/img/cover.png)
 
-# WTF Webpack Starter Kit 
+# Paulina Studniak's homepage 
 
-Simple toolkit for your static websites development.
+My homepage creating during the course WTF: Co ten frontend?
 
 ## How to use it?
 
-Click on `Use this template` button to generate a new repository based on this starter kit. After that clone it to your computer, go to the project directory in console and type `npm install`.
+Go to the project directory in console and type `npm install`.
 
 ## Available scripts
 
