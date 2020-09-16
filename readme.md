@@ -16,3 +16,5 @@ Go to the project directory in console and type `npm install`.
 
 `npm run publish` - runs build process and publish the page using `gh-pages` branch
 
+[Website link](https://paulina-studniak.github.io/homepage-webpack)
+
